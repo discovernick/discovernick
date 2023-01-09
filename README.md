@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an aspiring developer currently learning full-time in Sydney Australia
+I'm an aspiring developer currently learning full-time in Sydney, Australia.
 
 Languages I'm currently learning:
 
